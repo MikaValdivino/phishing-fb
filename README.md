@@ -16,6 +16,10 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
+### Resutado:
+
+![Alt text](./passwd.png "Linux")
+
 
 # Características do Phishing
 
