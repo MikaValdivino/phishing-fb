@@ -16,7 +16,7 @@
 - Obtendo o endereço da máquina: ``` ifconfig ```
 - URL para clone: http://www.facebook.com
 
-### Resutado:
+### Resultado:
 
 ![Alt text](./passwd.png "Linux")
 
